@@ -1,0 +1,29 @@
+{
+  "name": "reactive-brain",
+  "version": "0.0.1",
+  "description": "reactive implementations of neural networking methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gattermeier/reactive-brain.git"
+  },
+  "keywords": [
+    "reactive",
+    "functional",
+    "neural",
+    "network",
+    "brain"
+  ],
+  "author": "Matthias Gattermeier <matthias.gattermeier@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gattermeier/reactive-brain/issues"
+  },
+  "homepage": "https://github.com/Gattermeier/reactive-brain#readme",
+  "dependencies": {
+    "rxjs": "^5.0.0-beta.7"
+  }
+}
