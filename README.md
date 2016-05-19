@@ -1,2 +1,3 @@
 # reactive-brain
-Reactive implementations of neural networking methods 
+
+Playground for some implementations of neural networking methods in reactive functional programming style. 
